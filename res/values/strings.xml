@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BytoBot</string>
+    <string name="title_activity_main">BytoBotController</string>
+    <string name="btn_ON">Forward</string>
+    <string name="btn_OFF">Backward</string>
+    <string name="leftBtn">Left</string>
+    <string name="rightBtn">Right</string>
+
+</resources>
